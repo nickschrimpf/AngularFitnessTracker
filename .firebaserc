@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fitness-tracker-de72c": {
+      "hosting": {
+        "fitnessTracker": [
+          "fitness-tracker-de72c"
+        ]
+      }
+    }
+  }
+}
